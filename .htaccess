@@ -1,0 +1,4 @@
+# Garante que o acesso à raiz do site (meusite.com.br)
+# carregue a página de login unificada por padrão.
+DirectoryIndex index.php
+
