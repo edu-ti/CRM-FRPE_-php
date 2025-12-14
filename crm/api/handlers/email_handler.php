@@ -34,7 +34,7 @@ require_once dirname(__DIR__) . '/core/helpers.php';
 
      // --- Configuração do SendGrid ---
      // API Key obtida do guia SendGrid
-     //$sendgrid_api_key = "SUA_CHAVE_AQUI"; // <<< API KEY DO SEU PDF
+     $sendgrid_api_key = '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'; // <<< API KEY DO SEU PDF
 
      // Insira o seu e-mail remetente VERIFICADO no SendGrid
      $from_email = 'marketing@frpe.app.br'; // <<< SEU EMAIL VERIFICADO
